@@ -1,0 +1,9 @@
+data/
+runs/
+*.mp4
+*.avi
+*.pt
+*.onnx
+__pycache__/
+*.egg-info/
+.venv/
